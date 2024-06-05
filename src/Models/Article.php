@@ -73,6 +73,6 @@ class Article
 
         $query = "DELETE FROM {$tableName} WHERE id = {$id}";
 
-        return $this->conn->prepare($query);
+        return $this->conn->query($query);
     }
 }

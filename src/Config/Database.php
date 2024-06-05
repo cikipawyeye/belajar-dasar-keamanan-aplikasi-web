@@ -9,8 +9,8 @@ class Database
 {
     private $host = "localhost";
     private $dbName = "blog_app";
-    private $username = "root";
-    private $password = "";
+    private $username = "cikipaw";
+    private $password = "password";
     public $conn;
 
     public function getConnection()
