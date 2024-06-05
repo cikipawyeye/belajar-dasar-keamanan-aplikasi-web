@@ -94,11 +94,11 @@ server {
 
 Cara menjalankan aplikasi di lokal menggunakan PHP:
 ```bash
-cd /path/to/yourproject
+cd /path/to/your/project
 cd public
 php -S localhost:8000
 ```
-
+*\* ganti /path/to/your/project menjadi direktori tempat Anda menyimpan folder proyek ini * 
 
 ## Struktur Proyek
 
