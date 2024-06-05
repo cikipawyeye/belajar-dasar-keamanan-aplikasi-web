@@ -98,7 +98,7 @@ cd /path/to/your/project
 cd public
 php -S localhost:8000
 ```
-*\* ganti /path/to/your/project menjadi direktori tempat Anda menyimpan folder proyek ini * 
+*\* ganti /path/to/your/project menjadi direktori tempat Anda menyimpan folder proyek ini* 
 
 ## Struktur Proyek
 
